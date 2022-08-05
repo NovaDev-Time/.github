@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+
+https://www.dataschool.io/how-to-contribute-on-github/
+
 <!--
 
 **Here are some ideas to get you started:**
