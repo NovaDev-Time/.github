@@ -9,17 +9,5 @@
    <img alt="E2E Test" src="https://img.shields.io/static/v1?label=NOVADEV%20GROUP&message=V1&color=8257E5&labelColor=000001">
 </p>
  
- ---
-
-- [REGRAS DO REPOSITORIO](https://github.com/Lumen-st/.github/blob/main/profile/D-RULES_REPO.md)
-
-- [COMO CONTRIBUIR EM PROJECTOS DA NOVADEV](https://github.com/Lumen-st/.github/blob/main/profile/A-github.md)
-
-- [AUTOMATIZE OS SEUS DEPLOYS ](https://github.com/Lumen-st/.github/blob/main/profile/C-githubactions.md)
-
-- [USE NOSSAS LIBS NPM ](https://github.com/Lumen-st/.github/blob/main/profile/A-github.md)
-
----
-
   [![wakatime](https://wakatime.com/badge/user/4401a60f-971f-4471-8224-4a7c69a48959/project/d7b236b2-a81c-451e-ac46-59dac6768f9c.svg)](https://wakatime.com/badge/user/4401a60f-971f-4471-8224-4a7c69a48959/project/d7b236b2-a81c-451e-ac46-59dac6768f9c)
 
