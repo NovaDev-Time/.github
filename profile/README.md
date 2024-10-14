@@ -1,5 +1,5 @@
 <h2 align="center">
- NovaDev | Soluções Inteligentes  👋🎯"
+Sirius ® | Soluções & Tecnologia 👋🎯"
 </h2>
 
 <p align="center">
